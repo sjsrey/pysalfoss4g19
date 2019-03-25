@@ -4,7 +4,8 @@
 
 - [Sergio Rey](http://sergerey.org) - University of California, Riverside
 - [Wei Kang](http://spatial.ucr.edu/peopleKang.html) - University of California, Riverside
-
+- [Elijah Knaap](http://spatial.ucr.edu/peopleKaap.html) - University of California, Riverside
+- [Stefanie Lumnitz](https://github.com/slumnitz) - University of British Columbia
 ---
 
 This repository contains the materials and instructions for the PySAL workshop at [FOSS4G 2019](https://2019.foss4g-na.org/).
