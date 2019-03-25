@@ -1,0 +1,37 @@
+# Run `conda-env create -f workshop.yml`
+name: workshop
+channels:
+  - conda-forge
+  - bokeh
+
+dependencies:
+  - python=3.6
+  - pip
+  - bokeh
+  - cartopy
+  - dask
+  - geopandas
+  - ipython
+  - ipywidgets
+  - jupyter
+  - mplleaflet
+  - jupyterlab
+  - nbconvert
+  - networkx
+  - palettable
+  - qgrid
+  - rasterio
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - xlrd
+  - xlsxwriter
+  - pip:
+        - folium
+        - geojson
+        - palettable
+        - libpysal
+        - esda
+        - mapclassify
+        - giddy
+        - datashader
