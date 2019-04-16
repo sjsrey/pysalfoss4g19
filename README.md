@@ -14,16 +14,17 @@ This repository contains the materials and instructions for the PySAL workshop a
 ## Schedule (Proposed)
 
 
-* 8:00-10:00
+* 2:00-3:30
+  * PySAL Overview
   * Spatial data processing
-  * Choropleth mapping and geovisualization
   * Spatial weights
-* 10:00-10:30
+  * Choropleth mapping and geovisualization
+* 3:30-4:00
   * Break
-* 10:30-12:30
+* 4:00-5:30
   * Global spatial autocorrelation
   * Local spatial autocorrelation
-  * Spatial inequality analysis
+  * Spatial dynamics
   
 ## Obtaining Workshop Materials
 
