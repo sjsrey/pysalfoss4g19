@@ -10,12 +10,13 @@ dependencies:
   - bokeh
   - cartopy
   - dask
+  - dill
   - geopandas
   - ipython
   - ipywidgets
   - jupyter
-  - mplleaflet
   - jupyterlab
+  - pysal
   - nbconvert
   - networkx
   - palettable
@@ -26,12 +27,3 @@ dependencies:
   - statsmodels
   - xlrd
   - xlsxwriter
-  - pip:
-        - folium
-        - geojson
-        - palettable
-        - libpysal
-        - esda
-        - mapclassify
-        - giddy
-        - datashader
