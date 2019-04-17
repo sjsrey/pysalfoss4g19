@@ -6,9 +6,6 @@ channels:
 dependencies:
   - python=3.6
   - pip
-  - bokeh
-  - cartopy
-  - dill
   - geopandas
   - ipython
   - ipywidgets
@@ -29,3 +26,4 @@ dependencies:
     - cenpy==1.0.0rc2
     - splot
     - giddy
+    - contextily
