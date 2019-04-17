@@ -5,6 +5,8 @@ channels:
 
 dependencies:
   - python=3.6
+  - dill
+  - bokeh
   - pip
   - geopandas
   - ipython
@@ -24,6 +26,5 @@ dependencies:
   - xlsxwriter
   - pip:
     - cenpy==1.0.0rc2
-    - splot
-    - giddy
     - contextily
+    - mplleaflet
