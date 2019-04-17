@@ -2,14 +2,12 @@
 name: workshop
 channels:
   - conda-forge
-  - bokeh
 
 dependencies:
   - python=3.6
   - pip
   - bokeh
   - cartopy
-  - dask
   - dill
   - geopandas
   - ipython
@@ -27,3 +25,7 @@ dependencies:
   - statsmodels
   - xlrd
   - xlsxwriter
+  - pip:
+    - cenpy==1.0.0rc2
+    - splot
+    - giddy
