@@ -1,0 +1,30 @@
+# Run `conda-env create -f workshop.yml`
+name: workshop
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - dill
+  - bokeh
+  - pip
+  - geopandas
+  - ipython
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - pysal
+  - nbconvert
+  - networkx
+  - palettable
+  - qgrid
+  - rasterio
+  - scikit-learn
+  - seaborn
+  - statsmodels
+  - xlrd
+  - xlsxwriter
+  - pip:
+    - cenpy==1.0.0rc2
+    - contextily
+    - mplleaflet
