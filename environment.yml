@@ -17,7 +17,6 @@ dependencies:
   - nbconvert
   - networkx
   - palettable
-  - qgrid
   - rasterio
   - scikit-learn
   - seaborn
