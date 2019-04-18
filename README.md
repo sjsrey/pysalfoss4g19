@@ -1,4 +1,5 @@
 # Spatial Data Analysis with PySAL @FOSS4G
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysalfoss4g19/master)
 
 ### Instructors
 
